@@ -1,0 +1,6 @@
+{
+  "name": "ZANGA",
+  "description": "ZANGA – Take Control. Own Your Time. Premium personal life management and intelligent productivity ecosystem with automated activity alarm engine, financial management, routines, timeline, focus mode, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
